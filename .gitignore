@@ -1,0 +1,21 @@
+# Private data files - not to be shared publicly
+supplementary_materials_971rows.csv
+
+# Common files to ignore
+.DS_Store
+*.log
+*.tmp
+*~
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
