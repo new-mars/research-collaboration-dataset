@@ -48,7 +48,7 @@ Import the CSV into tools like Python (pandas), R, or NVivo for analysis.
 
 ## Citation
 Please cite the original manuscript:
-Luo, Q., & Ye, Y. (2025). Rethinking Research Collaboration in Educational Scholarship: A Critical Analysis through Knowledge Mobilization in Social Sciences Communities. Educational Review.
+Luo, Q., & Ye, Y. (2025). Rethinking Research Collaboration in Educational Scholarship: A Critical Analysis through Knowledge Mobilization in Social Sciences Communities. [Journal name], [Volume](Issue), [Pages].
 
 ## License
 This dataset is licensed under CC BY 4.0. Attribution required.
