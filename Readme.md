@@ -54,4 +54,4 @@ Luo, Q., & Ye, Y. (2025). Rethinking Research Collaboration in Educational Schol
 This dataset is licensed under CC BY 4.0. Attribution required.
 
 ## Contact
-For questions, contact the corresponding author at 1511534587@qq.com.
+For questions, contact the corresponding author at luoqiuxue86@bsuc.edu.cn

@@ -16,7 +16,7 @@
 ### For Researchers
 The complete dataset (`supplementary_materials_971rows.csv`) is available to qualified researchers who:
 
-1. **Contact the authors** at 1511534587@qq.com
+1. **Contact the authors** at luoqiuxue86@bsuc.edu.cn
 2. **Provide research credentials** (institutional affiliation, research purpose)
 3. **Agree to data sharing terms** (ethical use, proper citation)
 4. **Obtain institutional ethics approval** (if required by your institution)
@@ -28,7 +28,7 @@ The complete dataset (`supplementary_materials_971rows.csv`) is available to qua
 - **No Redistribution**: Do not share the complete dataset without permission
 
 ### Contact Information
-- **Email**: 1511534587@qq.com
+- **Email**: luoqiuxue86@bsuc.edu.cn
 - **Subject**: "Research Collaboration Dataset Access Request"
 - **Include**: 
   - Your name and institutional affiliation
