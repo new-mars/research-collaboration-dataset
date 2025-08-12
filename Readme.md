@@ -8,19 +8,27 @@ The dataset consists of anonymized interview quotes, categorized into four main 
 
 ### Files in This Repository
 
-- **supplementary_materials_highlighted.csv**: Public dataset containing representative quotes with highlighting for 8 Table 4 quotes. Columns:
+- **supplementary_materials_highlighted.csv**: Public dataset containing representative quotes with highlighting for 8 Table 4 quotes.
+
+- **supplementary_materials_971rows.csv**: Complete dataset with all 971 interview records. 
+  - **Access**: Restricted - Contact authors for access
+  - **Usage**: Requires ethical approval and data sharing agreement
+  - **Purpose**: Available for verified researchers and replication studies
+
+Both files contain the following columns:
   - Factor_Category: Main category (e.g., Knowledge_Mobilization)
-  - Sub_Category: Specific dimension (e.g., Research_Process)
+  - Sub_Category: Specific dimension (e.g., Research_Process)  
   - Participant_ID: Anonymous ID (T01-T41 or L01-L35)
   - Quote: Direct quote
   - Context: Quote context
   - Analysis_Theme: Thematic category
   - Table_4_Reference: Marked if appears in Table 4
 
-### Note on Data Privacy
-- The complete dataset (971 records) is available upon reasonable request to researchers
-- This public repository contains the highlighted subset for transparency and replication
-- Full dataset access requires ethical approval and data sharing agreement
+### Data Access Policy
+- **Public Access**: `supplementary_materials_highlighted.csv` - Freely available
+- **Restricted Access**: `supplementary_materials_971rows.csv` - Contact required
+- **Research Use**: Full dataset available to qualified researchers upon request
+- **Ethics**: All usage must comply with research ethics guidelines
 
 - **Dataset for Rethinking Research Collabor.md**: Detailed description of dataset structure and statistics.
 
