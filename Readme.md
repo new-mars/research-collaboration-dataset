@@ -10,10 +10,10 @@ The dataset consists of anonymized interview quotes, categorized into four main 
 
 - **supplementary_materials_highlighted.csv**: Public dataset containing representative quotes with highlighting for 8 Table 4 quotes.
 
-- **supplementary_materials_971rows.csv**: Complete dataset with all 971 interview records. 
-  - **Access**: Restricted - Contact authors for access
-  - **Usage**: Requires ethical approval and data sharing agreement
-  - **Purpose**: Available for verified researchers and replication studies
+- **supplementary_materials_971rows.csv**: Complete dataset structure with 971 records but **sensitive quotes redacted**
+  - **Technical Protection**: Quote content replaced with masked identifiers and metadata
+  - **Data Structure**: Full categorical and participant information preserved
+  - **Access**: Complete unmasked dataset available upon request to qualified researchers
 
 Both files contain the following columns:
   - Factor_Category: Main category (e.g., Knowledge_Mobilization)
