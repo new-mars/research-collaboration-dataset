@@ -8,13 +8,27 @@
 - `Dataset for Rethinking Research Collabor.md` - Dataset description
 - `LICENSE` - Usage terms
 
-### 🔒 Restricted Files (Contact Required)  
-- `supplementary_materials_971rows.csv` - Complete dataset (971 records)
+### 🔒 Protected Files (Technical Masking + Contact Required)  
+- `supplementary_materials_971rows.csv` - Complete dataset structure (971 records) with **quotes technically redacted**
 
-## Accessing the Complete Dataset
+## Technical Protection Measures
+
+### Quote Content Masking
+The complete dataset file uses technical protection where:
+- **Sensitive quotes are replaced** with masked identifiers: `[REDACTED_QUOTE_xxxxxxxx]`
+- **Metadata preserved**: Word count and character count for each quote
+- **Structure intact**: All categorical data, participant IDs, and themes remain visible
+- **Hash-based consistency**: Same quote always gets the same masked identifier
+
+This approach provides:
+- ✅ **Technical protection** against misuse of sensitive content
+- ✅ **Research transparency** through visible data structure and statistics
+- ✅ **Replication capability** for qualified researchers with unmasked data
+
+## Accessing the Complete Unmasked Dataset
 
 ### For Researchers
-The complete dataset (`supplementary_materials_971rows.csv`) is available to qualified researchers who:
+The complete **unmasked** dataset with original quote content (`supplementary_materials_971rows_FULL.csv`) is available to qualified researchers who:
 
 1. **Contact the authors** at luoqiuxue86@bsuc.edu.cn
 2. **Provide research credentials** (institutional affiliation, research purpose)
